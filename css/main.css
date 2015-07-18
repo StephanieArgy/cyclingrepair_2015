@@ -278,3 +278,31 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+header {
+  background: black;
+  color: white;
+  margin-top: 0;
+  padding: 25px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+.department {
+  border-bottom: 5px double #ddd;
+  padding: 2rem;
+}
+
+.card {
+  background: #bbb;
+  border: 5px solid maroon;
+  margin-bottom: .5rem;
+  padding: 1rem;
+  width: 25rem;
+}
